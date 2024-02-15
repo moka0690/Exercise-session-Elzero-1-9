@@ -11,3 +11,8 @@ console.groupEnd()
 console.group("group1")
 console.error("masseg1")
 console.error("masseg2")
+console.groupEnd()
+
+
+console.table ( ["ELzero","ahmed","Gamel","aya"])
+
